@@ -26,6 +26,7 @@ class e0_vars_vals extends HandsOnSuite  {
     pprint(a)
     a should be(__)
 
+
     
     pprint(a)
 
